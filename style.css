@@ -1,0 +1,149 @@
+html {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Cinzel Decorative', cursive;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+figure {
+    margin: 16px 0px;
+}
+
+#container {
+    margin: auto;
+    max-width: 600px;
+}
+
+figcaption {
+    width: 600px;
+    text-align: justify;
+    padding: 0px 10px;
+    line-height: 25px;
+}
+
+#nav {
+    padding: 0px 70px;
+}
+
+header {
+    padding: 0px 10px;
+
+}
+
+img {
+    padding: 0px 10px;
+}
+
+h2,
+h3,
+p {
+    padding: 10px 10px;
+}
+
+form {
+    text-align: center;
+}
+
+#details {
+    width: 600px;
+    padding: 0px 10px;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+
+#box-in-box {
+    position: relative;
+    width: 300px;
+    margin: auto;
+    max-width: 300px;
+    border-radius: 10px;
+    padding: 5px 0px 10px 0px;
+    margin-bottom: 5px;
+
+}
+
+input {
+    cursor: pointer;
+    padding: 10px;
+}
+
+#position {
+    border-radius: 10px;
+   
+}
+footer{
+    background-color:black;
+    color: white;
+    padding: 20px;
+    width: 600px;
+    
+}
+footer>ul>li{
+    list-style:none;
+    line-height:30px;
+    
+    
+}
+footer>ul>li>a{
+    color:azure;
+    text-decoration: none;
+    padding: 0px 10px;
+}
+div > p{
+    text-align: center;
+    line-height:0px;
+    color: gray;
+    margin-top:1%;
+
+}
+
+#fhead{
+    margin: 0%;
+    padding: 0%;
+    
+}
+h1{
+    margin:6px 0px;
+    text-align:center;
+    width:570px;
+    line-height:40px;
+}
+
+label{
+    color: black;
+}
+table{
+    border-collapse: collapse;
+    width:580px;
+    margin-bottom: 0%;
+    
+}
+th,td{
+    padding:5px;
+    text-align: center;
+}
+th{
+    background-color:#8F43EE;
+    color: aliceblue;
+}
+
+#table{
+    padding:10px;
+}
+nav>ul>li{
+    line-height: 25px;
+}
+#finish{
+    padding-left:0px;
+}
